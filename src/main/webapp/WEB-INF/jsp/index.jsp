@@ -15,7 +15,7 @@
         <h3>${nome}</h3>
         <h4>${email }</h4>
         
-        <p>GitHub: <a href="${git}">link</a></p>
+        <p>GitHub: <a href="https://github.com/linlicc/tp3-java" target="_blank">link</a></p>
         
 		<form action="/usuario" method="get">
 
